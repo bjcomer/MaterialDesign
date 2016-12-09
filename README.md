@@ -3,7 +3,13 @@
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.22-1.
 
 ##Setup
-- git clone https://github.com/bjcomer/MDTest.git
+- git clone https://github.com/bjcomer/mdtest.git
+- cd mdtest
+- npm install -g angular-cli
+- npm install 
+- npm install --save @angular/material
+- npm install --save hammerjs
+- npm install --save-dev @types/hammerjs
 
 
 ## Development server
